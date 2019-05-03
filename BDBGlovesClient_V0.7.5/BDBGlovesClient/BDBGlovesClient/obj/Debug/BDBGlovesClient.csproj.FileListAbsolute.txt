@@ -1,0 +1,1385 @@
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient\BDBGlovesClient\BDBGlovesClient\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient\BDBGlovesClient\BDBGlovesClient\bin\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient\BDBGlovesClient\BDBGlovesClient\bin\Debug\Windows.Foundation.FoundationContract.winmd
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient\BDBGlovesClient\BDBGlovesClient\bin\Debug\Windows.winmd
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\Windows.Foundation.FoundationContract.winmd
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\Windows.winmd
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_4\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_4\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_4\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_4\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_4\BDBGlovesClient\BDBGlovesClient\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_4\BDBGlovesClient\BDBGlovesClient\bin\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_4\BDBGlovesClient\BDBGlovesClient\bin\Debug\Windows.Foundation.FoundationContract.winmd
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_4\BDBGlovesClient\BDBGlovesClient\bin\Debug\Windows.winmd
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_4\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_4\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_4\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_4\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_4\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_4\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_4\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_4\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_4\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_5\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_5\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_5\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_5\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_5\BDBGlovesClient\BDBGlovesClient\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_5\BDBGlovesClient\BDBGlovesClient\bin\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_5\BDBGlovesClient\BDBGlovesClient\bin\Debug\Windows.Foundation.FoundationContract.winmd
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_5\BDBGlovesClient\BDBGlovesClient\bin\Debug\Windows.winmd
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_5\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_5\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_5\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_5\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_5\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_5\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_5\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_5\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_5\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_7\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_7\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_7\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_7\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_7\BDBGlovesClient\BDBGlovesClient\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_7\BDBGlovesClient\BDBGlovesClient\bin\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_7\BDBGlovesClient\BDBGlovesClient\bin\Debug\Windows.Foundation.FoundationContract.winmd
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_7\BDBGlovesClient\BDBGlovesClient\bin\Debug\Windows.winmd
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_7\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_7\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_7\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_7\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_7\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_7\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_7\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_7\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\BDBGlovesClient_7\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\concrt140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\cvextern.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\msvcp140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\vcruntime140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\concrt140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\cvextern.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\msvcp140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\vcruntime140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Design.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Fonts.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\de\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\es\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\fr\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\hu\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\it\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\ja\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\pt\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\ru\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\sk\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\sv\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\tr\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_8\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\concrt140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\cvextern.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\msvcp140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\vcruntime140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\concrt140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\cvextern.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\msvcp140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\vcruntime140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Design.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Fonts.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\de\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\es\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\fr\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\hu\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\it\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\ja\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\pt\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\ru\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\sk\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\sv\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\tr\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_9\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\concrt140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\cvextern.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\msvcp140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\vcruntime140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\concrt140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\cvextern.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\msvcp140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\vcruntime140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Design.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Fonts.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\de\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\es\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\fr\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\hu\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\it\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\ja\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\pt\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\ru\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\sk\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\sv\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\tr\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_10\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\concrt140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\cvextern.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\msvcp140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\vcruntime140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\concrt140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\cvextern.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\msvcp140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\vcruntime140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Design.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Fonts.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\de\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\es\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\fr\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\hu\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\it\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\ja\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\pt\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\ru\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\sk\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\sv\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\tr\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_12\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\concrt140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\cvextern.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\msvcp140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\vcruntime140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\concrt140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\cvextern.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\msvcp140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\vcruntime140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Design.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Fonts.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\de\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\es\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\fr\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\hu\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\it\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\ja\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\pt\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\ru\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\sk\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\sv\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\tr\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_13\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\Users\GagandeepSingh\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\Users\GagandeepSingh\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\Users\GagandeepSingh\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\Users\GagandeepSingh\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\Users\GagandeepSingh\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\Users\GagandeepSingh\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\Users\GagandeepSingh\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\concrt140.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\cvextern.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\msvcp140.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\vcruntime140.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\concrt140.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\cvextern.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\msvcp140.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\vcruntime140.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Design.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\Windows.Foundation.FoundationContract.winmd
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\Windows.winmd
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.xml
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.xml
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.xml
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_13_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\concrt140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\cvextern.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\msvcp140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\vcruntime140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\concrt140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\cvextern.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\msvcp140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\vcruntime140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Design.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Fonts.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\de\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\es\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\fr\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\hu\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\it\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\ja\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\pt\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\ru\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\sk\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\sv\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\tr\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_15\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\concrt140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\cvextern.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\msvcp140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\vcruntime140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\concrt140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\cvextern.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\msvcp140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\vcruntime140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Design.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Fonts.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\de\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\es\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\fr\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\hu\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\it\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\ja\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\pt\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\ru\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\sk\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\sv\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\tr\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\concrt140.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\cvextern.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\msvcp140.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\vcruntime140.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\concrt140.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\cvextern.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\msvcp140.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\vcruntime140.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Design.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\Windows.Foundation.FoundationContract.winmd
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\Windows.winmd
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.xml
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.xml
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.xml
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\Users\camer\Desktop\BDBGlovesClient_16\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\concrt140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\cvextern.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\msvcp140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\vcruntime140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\concrt140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\cvextern.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\msvcp140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\vcruntime140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Design.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Fonts.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\de\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\es\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\fr\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\hu\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\it\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\ja\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\pt\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\ru\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\sk\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\sv\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\tr\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_17\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\concrt140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\cvextern.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\msvcp140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\vcruntime140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\concrt140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\cvextern.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\msvcp140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\vcruntime140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Design.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Fonts.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\de\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\es\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\fr\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\hu\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\it\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\ja\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\pt\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\ru\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\sk\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\sv\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\tr\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_20\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\concrt140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\cvextern.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\msvcp140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\vcruntime140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\concrt140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\cvextern.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\msvcp140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\vcruntime140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Design.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Fonts.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\de\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\es\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\fr\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\hu\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\it\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\ja\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\pt\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\ru\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\sk\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\sv\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\tr\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_21\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\concrt140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\cvextern.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\msvcp140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\vcruntime140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\concrt140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\cvextern.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\msvcp140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\vcruntime140.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Design.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Fonts.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.xml
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\de\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\es\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\fr\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\hu\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\it\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\ja\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\pt\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\ru\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\sk\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\sv\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\tr\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\All Files\Senior Design\BDBWindowsClientCode\WinForms\BDBGlovesClient_22\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\concrt140.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\cvextern.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\msvcp140.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\vcruntime140.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\concrt140.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\cvextern.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\msvcp140.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\vcruntime140.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Design.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\Windows.Foundation.FoundationContract.winmd
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\Windows.winmd
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.xml
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.xml
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.xml
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\Users\camer\Desktop\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\concrt140.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\cvextern.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\msvcp140.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\vcruntime140.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\concrt140.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\cvextern.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\msvcp140.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\vcruntime140.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Design.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Fonts.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.xml
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.xml
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.xml
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\de\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\es\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\fr\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\hu\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\it\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\ja\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\pt\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\ru\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\sk\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\sv\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\tr\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_23_2\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\concrt140.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\cvextern.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\msvcp140.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\vcruntime140.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\concrt140.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\cvextern.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\msvcp140.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\vcruntime140.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\DirectShowLib-2005.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Design.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Fonts.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.xml
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.xml
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.xml
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\de\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\es\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\fr\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\hu\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\it\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\ja\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\pt\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\ru\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\sk\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\sv\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\tr\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_24\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\concrt140.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\cvextern.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\msvcp140.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\vcruntime140.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\concrt140.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\cvextern.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\msvcp140.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\vcruntime140.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\DirectShowLib-2005.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Design.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Fonts.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.xml
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.xml
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.xml
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\de\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\es\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\fr\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\hu\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\it\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\ja\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\pt\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\ru\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\sk\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\sv\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\tr\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_25\BDBGlovesClient_23\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\concrt140.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\cvextern.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\msvcp140.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\vcruntime140.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\concrt140.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\cvextern.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\msvcp140.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\vcruntime140.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\DirectShowLib-2005.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Design.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Fonts.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.xml
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.xml
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.xml
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\de\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\es\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\fr\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\hu\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\it\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\ja\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\pt\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\ru\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\sk\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\sv\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\tr\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\AllFiles\School\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\concrt140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\cvextern.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\msvcp140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\vcruntime140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\concrt140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\cvextern.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\msvcp140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\vcruntime140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\DirectShowLib-2005.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Design.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Fonts.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\de\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\es\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\fr\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\hu\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\it\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\ja\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\pt\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\ru\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\sk\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\sv\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\tr\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_26\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\concrt140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\cvextern.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\msvcp140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\vcruntime140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\concrt140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\cvextern.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\msvcp140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\vcruntime140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\DirectShowLib-2005.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Design.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Fonts.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\de\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\es\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\fr\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\hu\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\it\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\ja\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\pt\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\ru\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\sk\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\sv\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\tr\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_28\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\concrt140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\cvextern.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\msvcp140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\vcruntime140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\concrt140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\cvextern.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\msvcp140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\vcruntime140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\DirectShowLib-2005.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Design.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Fonts.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\de\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\es\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\fr\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\hu\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\it\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\ja\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\pt\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\ru\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\sk\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\sv\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\tr\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.SplashForm.resources
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_29\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\concrt140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\cvextern.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\msvcp140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\vcruntime140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\concrt140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\cvextern.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\msvcp140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\vcruntime140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\DirectShowLib-2005.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Design.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Fonts.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\de\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\es\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\fr\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\hu\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\it\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\ja\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\pt\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\ru\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\sk\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\sv\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\tr\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.SplashForm.resources
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_30\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\concrt140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\cvextern.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\msvcp140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\vcruntime140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\concrt140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\cvextern.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\msvcp140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\vcruntime140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\DirectShowLib-2005.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Design.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Fonts.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\de\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\es\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\fr\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\hu\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\it\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\ja\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\pt\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\ru\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\sk\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\sv\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\tr\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.SplashForm.resources
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_31\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\concrt140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\cvextern.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\msvcp140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\vcruntime140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\concrt140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\cvextern.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\msvcp140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\vcruntime140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\DirectShowLib-2005.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Design.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Fonts.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\de\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\es\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\fr\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\hu\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\it\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\ja\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\pt\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\ru\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\sk\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\sv\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\tr\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.SplashForm.resources
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\concrt140.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\cvextern.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\msvcp140.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\vcruntime140.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\concrt140.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\cvextern.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\msvcp140.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\vcruntime140.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\DirectShowLib-2005.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Design.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.xml
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.xml
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.xml
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.SplashForm.resources
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\concrt140.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\cvextern.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\msvcp140.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\vcruntime140.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\concrt140.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\cvextern.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\msvcp140.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\vcruntime140.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\DirectShowLib-2005.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Design.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.xml
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.xml
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.xml
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.SplashForm.resources
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\Users\camer\Desktop\4-5-2019\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\concrt140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\cvextern.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\msvcp140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\vcruntime140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\concrt140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\cvextern.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\msvcp140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\vcruntime140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\DirectShowLib-2005.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Design.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Fonts.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\de\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\es\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\fr\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\hu\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\it\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\ja\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\pt\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\ru\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\sk\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\sv\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\tr\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.SplashForm.resources
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\FINAL\BDBGlovesClient_32_2\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\concrt140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\cvextern.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\msvcp140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\x64\vcruntime140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\concrt140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\cvextern.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\msvcp140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\x86\vcruntime140.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe.config
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.exe
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\BDBGlovesClient.pdb
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\DirectShowLib-2005.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Design.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\MetroFramework.Fonts.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.UI.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\Emgu.CV.World.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\NAudio.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\ZedGraph.xml
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\de\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\es\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\fr\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\hu\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\it\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\ja\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\pt\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\ru\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\sk\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\sv\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\tr\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csprojAssemblyReference.cache
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.BDBGCForm.resources
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.Properties.Resources.resources
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.SplashForm.resources
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.GenerateResource.cache
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CoreCompileInputs.cache
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.csproj.CopyComplete
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.exe
+C:\AllFiles\School\Spring 2019\SeniorDesign\WindowsClient\BDBGlovesClient_V0.7.5\BDBGlovesClient\BDBGlovesClient\obj\Debug\BDBGlovesClient.pdb
